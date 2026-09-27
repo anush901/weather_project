@@ -1,6 +1,6 @@
 # Seattle vs. Miami Precipitation Analysis (2018–2022)
 
-> A comparative data analysis evaluating daily precipitation patterns, volume differences, and seasonal rainfall distributions between Seattle, WA, and Miami, FL, using NOAA historical weather data.
+> A comparative data analysis evaluating daily precipitation between Seattle, WA, and Miami, FL, using NOAA historical weather data.
 
 
 ---
