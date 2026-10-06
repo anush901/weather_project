@@ -43,7 +43,6 @@ Daily precipitation records from 2018-01-01 to 2022-12-31 for one weather statio
 | [`data/seattle_rain.csv`](data/seattle_rain.csv) | Raw Seattle data |
 | [`data/miami_rain.csv`](data/miami_rain.csv) | Raw Miami data |
 | [`code/clean_seattle_miami_weather.csv`](code/clean_seattle_miami_weather.csv) | Tidy data set written by the notebook |
-| [`reports/`](reports/) | Communication document summarizing the findings for a general audience |
 
 ---
 
