@@ -115,11 +115,7 @@ In short, St. Louis gets heavier rain on the days it rains, concentrated in spri
 - About 10% of Seattle's days (190 of 1,826) were missing and filled with the day-of-year average, which smooths out real day-to-day variability.
 - The t-tests assume roughly normal data, but daily precipitation is heavily right-skewed with many zero days. The z-tests treat days as independent, although consecutive rainy days are correlated. Results should be read as indicative.
 
----
 
-## Communication Document
-
-A summary of the findings for a non-technical audience is in the `reports/` folder: **[`reports/precipitation_communication.pdf`](reports/precipitation_communication.pdf)**.
 
 ---
 
